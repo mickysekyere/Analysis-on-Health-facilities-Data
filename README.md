@@ -16,4 +16,4 @@ Analysis of Health facilities mainly centers on the health distributions of regi
 
 The data was obtained from the Ghana Health service.It is the file named data on HFs GH. The excel file Proposed hospitals.xlsx contains the 8 different locations we recommend hospitals should be set up .
 
-NB: Check Issues to find graphical informations and imageries
+NB: Check Issues to find graphical informations and imagies
