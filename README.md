@@ -15,3 +15,5 @@ Members of the group include
 Analysis of Health facilities mainly centers on the health distributions of regions where there a fewer health centers and provide recommendations on places where we can set up health facilities to improve the healthcare delivery in Ghana.
 
 The data was obtained from the Ghana Health service.It is the file named data on HFs GH. The excel file Proposed hospitals.xlsx contains the 8 different locations we recommend hospitals should be set up .
+
+NB: Check Issues to find graphical informations and imageries
