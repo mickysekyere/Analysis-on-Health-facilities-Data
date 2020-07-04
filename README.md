@@ -11,6 +11,7 @@ Members of the group include
    1. How many health facilities are present in each district of each region?
    2. What are the different types of health facilities present in each Region?
    3. Which organization or agency owns the types of health centers in each hospital?
+
 Analysis of Health facilities mainly centers on the health distributions of regions where there a fewer health centers and provide recommendations on places where we can set up health facilities to improve the healthcare delivery in Ghana.
 
 The data was obtained from the Ghana Health service.It is the file named data on HFs GH. The excel file Proposed hospitals.xlsx contains the 8 different locations we recommend hospitals should be set up .
